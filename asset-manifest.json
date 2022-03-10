@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/retosBuild/static/css/main.7c97941a.css",
+    "main.js": "/retosBuild/static/js/main.6741a192.js",
+    "static/js/787.65e28c82.chunk.js": "/retosBuild/static/js/787.65e28c82.chunk.js",
+    "index.html": "/retosBuild/index.html",
+    "main.7c97941a.css.map": "/retosBuild/static/css/main.7c97941a.css.map",
+    "main.6741a192.js.map": "/retosBuild/static/js/main.6741a192.js.map",
+    "787.65e28c82.chunk.js.map": "/retosBuild/static/js/787.65e28c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c97941a.css",
+    "static/js/main.6741a192.js"
+  ]
+}
